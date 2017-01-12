@@ -1,0 +1,9 @@
+###############3
+# ficheros ingnorados con GIT
+########################
+
+# clases compiladas de java.class
+/bin/
+/.project
+#configuracion eclipse
+/.classpath
